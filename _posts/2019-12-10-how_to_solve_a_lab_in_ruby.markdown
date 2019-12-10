@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "HOW TO SOLVE A LAB IN RUBY"
-date:       2019-12-10 21:15:09 +0000
+date:       2019-12-10 16:15:10 -0500
 permalink:  how_to_solve_a_lab_in_ruby
 ---
 
