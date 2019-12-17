@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My style of working with Procedural Ruby."
-date:       2019-12-17 22:27:23 +0000
+date:       2019-12-17 17:27:24 -0500
 permalink:  my_style_of_working_with_procedural_ruby
 ---
 
